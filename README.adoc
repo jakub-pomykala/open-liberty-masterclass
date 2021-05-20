@@ -1,10 +1,11 @@
+:toc:macro
 = Open Liberty Masterclass
 
 This document contains the hands-on lab modules for the Open Liberty Masterclass.  It is intended to be used in conjunction with taught materials, however, feel free to give it a try, even if you're not in a Masterclass.
 
 == Table of Contents
 
-:toc:macro
+toc::[]
 
 == Before you begin
 
