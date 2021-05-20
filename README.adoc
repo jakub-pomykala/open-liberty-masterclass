@@ -4,7 +4,7 @@ This document contains the hands-on lab modules for the Open Liberty Masterclass
 
 == Table of Contents
 
-:toc:left
+:toc:macro
 
 == Before you begin
 
