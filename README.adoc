@@ -3,24 +3,25 @@
 This document contains the hands-on lab modules for the Open Liberty Masterclass.  It is intended to be used in conjunction with taught materials, however, feel free to give it a try, even if you're not in a Masterclass.
 
 == Table of Contents
+:toc:
 
-- Open Liberty Masterclass
-- Table of Contents
-- Before you begin
-- Install Pre-requisites
-- Prime Maven and Docker Caches
-- The Application
-- Module 1: Build
-- Module 2: Dev Mode
-- Module 3: Application APIs
-- Module 4: Server Configuration
-- Module 5: Externalizing Configuration
-- Module 6: Integration Testing
-- Module 7: Docker
-- Overriding Dev Server Configuration
-- Module 8: Testing in Containers
-- Module 9: Support Licensing
-- Conclusion
+==== Open Liberty Masterclass
+==== Table of Contents
+==== Before you begin
+==== Install Pre-requisites
+==== Prime Maven and Docker Caches
+==== The Application
+==== Module 1: Build
+==== Module 2: Dev Mode
+==== Module 3: Application APIs
+==== Module 4: Server Configuration
+==== Module 5: Externalizing Configuration
+==== Module 6: Integration Testing
+==== Module 7: Docker
+==== Overriding Dev Server Configuration
+==== Module 8: Testing in Containers
+==== Module 9: Support Licensing
+==== Conclusion
 
 == Before you begin
 
